@@ -1,7 +1,7 @@
 @import "config";
 @import "utilities";
 @import "item_grid";
-@import "media";
+// @import "media";
 
 // general style
 
@@ -381,3 +381,6 @@ img {
     }
   }
 }
+
+//  Import Media Queries
+@import "media";
